@@ -10,6 +10,8 @@
 
 💽 [Tải Về](https://drive.google.com/file/d/1t3ssXXfngQcFpdiMRFCTI8pWfoRusPLj/view)
 
+💽[Bản Vá APK Fix Bàn Phím](https://drive.google.com/file/d/1_gN48nPtbp2zHGmnYbF4ogehLJjfD3-x/view)
+
 #### Android 4.4.4 (Đang Phát Triển)
 
  📖[Mã Nguồn Android 4.4.4 Beta](https://github.com/androidarmv6/android_kernel_samsung_bcm21553-common)
