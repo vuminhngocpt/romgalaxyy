@@ -19,6 +19,9 @@
 
  📖[Mã Nguồn Android 4.4.4 Beta](https://github.com/androidarmv6/android_kernel_samsung_bcm21553-common)
 
+#### Hướng Dẫn 
+
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 
       Vũ Minh Ngọc ©
