@@ -21,7 +21,6 @@
 
 #### Hướng Dẫn 
 
-[![Video Title](https://img.youtube.com/vi/HEd7j85RX_0&t=0s/0.jpg)](https://www.youtube.com/watch?v=HEd7j85RX_0&t=0s)
-
+[![Video Title](test)
 
       Vũ Minh Ngọc ©
