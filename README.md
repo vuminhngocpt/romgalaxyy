@@ -2,6 +2,9 @@
 
   ⚠️-bạn chú ý khi up rom hoặc nạp rom có thể mất dữ liệu hoặc hỏng hoàn toàn thiết bị , bạn phải tự chịu nếu máy bị hỏng vĩnh viễn 
 
+#### Cần Hỗ Trợ
+  - Tôi đang không có thiết bị nên không test được ai đang có cho tôi hoặc hỗ trợ cho tôi để test các bản rom ạ
+    
 #### Android 4.0.4 ( Mod )
 
 💽 [Tải Về](https://terabox.com/s/15p9pYCjx4GVK_xp8RRWlbg)
